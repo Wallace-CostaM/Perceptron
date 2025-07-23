@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Virtual environment
+venv/
+.env/
+
+# Logs
+*.log
