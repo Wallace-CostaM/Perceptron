@@ -63,7 +63,3 @@ Ao executar o código com o conjunto de dados da função lógica OR, você deve
 - Adaptar o perceptron para classificação multiclasse.
 - Testar o modelo com datasets reais, como o conjunto Iris.
 - Implementar testes automatizados para garantir a robustez do código.
-
-
-
-## 8. Referências
